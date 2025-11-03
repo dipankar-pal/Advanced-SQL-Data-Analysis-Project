@@ -38,5 +38,5 @@ It includes complex SQL techniques such as **window functions**, **common table 
 - 📦 Optimize **inventory management** for high-demand products.  
 - 📈 Monitor monthly trends to improve **forecast accuracy**.  
 
-## 🗂️ Project Structure  
+
 
